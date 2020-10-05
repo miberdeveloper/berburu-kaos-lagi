@@ -3,6 +3,7 @@
 <img src="./pres.PNG" width=100%>
 
 ## Mbah Kung ...
+<img src="./zaki.png" width=50%>
 <img src="./zaki.png" width=100%>
 <img src="./mbah.jpg" width=100%>
 
